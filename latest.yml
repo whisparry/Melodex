@@ -1,8 +1,8 @@
-version: 1.2.2
+version: 1.3.0
 files:
-  - url: Melodex-Setup-1.2.2.exe
-    sha512: gBzolCT0MwccJcjn354zfxEiGaWb5Fv7hG24cDkY1AkOiDtOJ6wqKJnraQZhe88al3QJ1NBL8gDLmnTiDZSo0A==
-    size: 96763726
-path: Melodex-Setup-1.2.2.exe
-sha512: gBzolCT0MwccJcjn354zfxEiGaWb5Fv7hG24cDkY1AkOiDtOJ6wqKJnraQZhe88al3QJ1NBL8gDLmnTiDZSo0A==
-releaseDate: '2026-01-21T16:20:07.903Z'
+  - url: Melodex-Setup-1.3.0.exe
+    sha512: d3DZ8+lrPr4yVPl+vObVC+KVo24boh6RMLwZe7h4qhYFGophPOxjQBusTR4YMX2kMwieTV6HmhVDliMk+tjACw==
+    size: 96763865
+path: Melodex-Setup-1.3.0.exe
+sha512: d3DZ8+lrPr4yVPl+vObVC+KVo24boh6RMLwZe7h4qhYFGophPOxjQBusTR4YMX2kMwieTV6HmhVDliMk+tjACw==
+releaseDate: '2026-01-21T17:04:10.514Z'
